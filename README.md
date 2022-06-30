@@ -195,30 +195,95 @@ CAPITULO 8 TEOTEMA DE CIRCUITOS Y CONVERSIONES
 
 ![image](https://user-images.githubusercontent.com/84783341/176729384-d9d76b12-640e-4b95-972e-c0a3171513e4.png)
 
+4. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos de la rama R2 de la figura 8-69
+
+![image](https://user-images.githubusercontent.com/84783341/176735593-5b9ce812-294e-4105-97a2-a8e3992a602f.png)
+
+![image](https://user-images.githubusercontent.com/84783341/176735654-0369d93f-b9ff-47c7-90da-88921624c49b.png)
+
+![image](https://user-images.githubusercontent.com/84783341/176735755-6ec68948-59bb-4974-808c-0b05a144b2b6.png)
+
+![image](https://user-images.githubusercontent.com/84783341/176735862-8e955ecd-d500-4fdb-8039-29e3c78af85d.png)
+
+![image](https://user-images.githubusercontent.com/84783341/176735953-d9a8fc14-f3bb-4e6c-9799-ab905e254f34.png)
 
 
+4. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71.
+
+![image](https://user-images.githubusercontent.com/84783341/176736071-3b2a746a-8699-42ca-9843-e74779ffe180.png)
+
+![image](https://user-images.githubusercontent.com/84783341/176736199-9cc23ce2-d4ec-4046-a3a5-1dc6f5a678f0.png)
+
+6. Repita el problema 11 si R2 es de 10 kΩ.
+
+![image](https://user-images.githubusercontent.com/84783341/176736312-25fb537d-06d6-4d13-bc5a-0247afdd6da7.png)
+
+7. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor.
+
+![image](https://user-images.githubusercontent.com/84783341/176736419-af0b2bc3-e104-4083-ad14-7653141a87b8.png)
+
+![image](https://user-images.githubusercontent.com/84783341/176736596-f292cced-b6f3-402a-93b2-b1d23afab26d.png)
+
+8. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B.
+
+![image](https://user-images.githubusercontent.com/84783341/176736733-194861bf-69ba-4823-b630-e5dcc1371cab.png)
+
+![image](https://user-images.githubusercontent.com/84783341/176736846-97011bd6-fb53-4240-820e-02875c0f77b0.png)
+
+![image](https://user-images.githubusercontent.com/84783341/176736937-da269a91-2788-4f7e-991d-3cfdd6c38fba.png)
+
+9. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78.
+
+![image](https://user-images.githubusercontent.com/84783341/176737152-5fbd6884-2eb3-47f3-a04e-978771ba00b5.png)
+
+![image](https://user-images.githubusercontent.com/84783341/176737297-b30c1656-d75c-4907-a81e-1864524effa3.png)
 
 
+10. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kΩ, 5 kΩ, y 10 kΩ en la figura 8-80.
+
+![image](https://user-images.githubusercontent.com/84783341/176737401-541a443a-0097-44f5-8253-86b416d293c8.png)
+
+![image](https://user-images.githubusercontent.com/84783341/176737486-843673aa-ca01-4eab-ad81-5cd7c04d86ab.png)
+
+11. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
+
+![image](https://user-images.githubusercontent.com/84783341/176737570-fa4baf6a-c4ec-4b87-9949-14feecc74ea4.png)
+
+![image](https://user-images.githubusercontent.com/84783341/176737679-ea8e46f8-4152-41d9-a95c-5ccae724bd36.png)
+
+12. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77
+
+![image](https://user-images.githubusercontent.com/84783341/176737913-eb50982f-35e8-48f6-9632-0659dd644266.png)
+
+13. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando R8 = 8 kΩ
+
+![image](https://user-images.githubusercontent.com/84783341/176737995-b786bd6f-3968-4e9c-8d8c-df0902cf107f.png)
+
+![image](https://user-images.githubusercontent.com/84783341/176738230-1d7b509b-9273-48b3-ab8a-87f105ace21b.png)
+
+14. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
+
+![image](https://user-images.githubusercontent.com/84783341/176738505-6819588c-f20a-436b-bdb9-419ddcbecc6f.png)
 
 
+CONCLUCION:
 
+El circuito eléctrico en serie se denota por mantener su intensidad decorriente
 
+constante, también por su variación de voltaje y fnalmentelas resistencias
 
+totales siempre serán las mismas que las resistenciasque compone el circuito
 
+Finalmente el circuito eléctrico mixto se conoce por las variaciones detanto su
 
+intensidad de corriente como su respecvo voltaje,presentando las características
 
+de cada uno de sus componentes
 
+BIBLIOGRAFIA:
 
-
-
-
-
-
-
-
-
-
-
+(Floyd 2007)Floyd, Thomas L. 2007. Principios de Circuitos Eléctricos. Octava Edi. ed. S.A. de C.V Pearson Educación de México. Luis Miguel Cruz Castillo.
+![image](https://user-images.githubusercontent.com/84783341/176739448-ca8a483b-26ae-4b6b-a581-eecc71d0f0a9.png)
 
 
 
